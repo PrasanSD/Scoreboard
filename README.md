@@ -1,7 +1,3 @@
-# Svelte Scoreboard
-
-> Simple scoreboard app, showcasing Svelte.js
-
 ## Get started
 
 Install the dependencies...
