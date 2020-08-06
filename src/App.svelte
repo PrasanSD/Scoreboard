@@ -5,16 +5,16 @@
 
   let players = [
     {
-      name: "John Doe",
-      points: 53
+      name: "Tyler",
+      points: 78
     },
     {
-      name: "Sam Smith",
-      points: 45
+      name: "Justin",
+      points: 52
     },
     {
-      name: "Sara Wilson",
-      points: 34
+      name: "Mia",
+      points: 36
     }
   ];
 
