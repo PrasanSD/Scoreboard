@@ -32,7 +32,7 @@
 <div class="container">
   <AddPlayer on:addplayer={addPlayer} />
   {#if players.length === 0}
-    <p>No Players.. Please Add players</p>
+    <p class="card">No Players.. Please Add players</p>
   {:else}
     {#each players as player}
       <Player

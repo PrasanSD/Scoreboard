@@ -95,6 +95,7 @@ img {
   padding: 1rem;
   border: #ccc 1px dotted;
   margin: 0.7rem 0;
+  background: linear-gradient(to right, rgb(64, 116, 165), grey);
 }
 
 /* List */
@@ -237,6 +238,16 @@ img {
 .alert-primary {
   background: var(--primary-color);
   color: #fff;
+}
+
+.header,
+.btn-add-player {
+  background: linear-gradient(to right, rgb(17, 20, 65), rgb(108, 126, 228));
+  color: white;
+}
+
+.align-right {
+  float: right;
 }
 
 .btn-light,
